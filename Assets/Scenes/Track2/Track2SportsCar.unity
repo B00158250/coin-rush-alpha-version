@@ -3269,6 +3269,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: SportCar
       objectReference: {fileID: 0}
+    - target: {fileID: 4010073870372030, guid: 4363d0e2e600d6740ae8d914adbee163, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4010073870372030, guid: 4363d0e2e600d6740ae8d914adbee163, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.21
+      objectReference: {fileID: 0}
     - target: {fileID: 4504733734318840, guid: 4363d0e2e600d6740ae8d914adbee163, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -3313,8 +3321,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 64214975538430970, guid: 4363d0e2e600d6740ae8d914adbee163, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4363d0e2e600d6740ae8d914adbee163, type: 3}
 --- !u!1 &957095893 stripped
 GameObject:
@@ -3354,8 +3361,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 3.0407097, y: 2.075943, z: 5.1693864}
-  m_Center: {x: -0.12357617, y: 1.161005, z: 0.035467386}
+  m_Size: {x: 3.2551231, y: 2.2058282, z: 5.1693864}
+  m_Center: {x: -0.0163697, y: 1.067066, z: 0.035467386}
 --- !u!54 &957095897
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5034,6 +5041,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 4, y: 4.3357325, z: 0.680464}
   m_Center: {x: 0, y: 2.1678662, z: 0.2402315}
+--- !u!1 &1305037141 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1507553470850564, guid: 4363d0e2e600d6740ae8d914adbee163, type: 3}
+  m_PrefabInstance: {fileID: 957095892}
+  m_PrefabAsset: {fileID: 0}
+--- !u!33 &1305037143
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1305037141}
+  m_Mesh: {fileID: 4300000, guid: 187f969f1c3705149a7884043194c2e8, type: 3}
 --- !u!1001 &1323700892
 PrefabInstance:
   m_ObjectHideFlags: 0
