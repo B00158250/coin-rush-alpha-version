@@ -941,7 +941,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 30
   turnSpeed: 60
-  timeLeft: 3
   startTimer: {fileID: 839302981}
   gameStarts: {fileID: 396243410}
   goText: {fileID: 1899694564}
