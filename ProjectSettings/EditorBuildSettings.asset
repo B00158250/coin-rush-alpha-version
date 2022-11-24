@@ -9,14 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu/StartMenu.unity
     guid: b92e8481befdbdd48991578bc03984c1
   - enabled: 1
-    path: Assets/Scenes/Menu/Explanation.unity
-    guid: d76b23c152e791b47b5549e648901aff
+    path: Assets/Scenes/Menu/ChooseCar.unity
+    guid: bbfce23c07bd2a24f856f1efda71b18d
   - enabled: 1
     path: Assets/Scenes/Menu/Leaderboard.unity
     guid: 9f362e4a7e182f040ab98c9106a9ab03
   - enabled: 1
-    path: Assets/Scenes/Menu/ChooseCar.unity
-    guid: bbfce23c07bd2a24f856f1efda71b18d
+    path: Assets/Scenes/Menu/Explanation.unity
+    guid: d76b23c152e791b47b5549e648901aff
   - enabled: 1
     path: Assets/Scenes/Menu/ChooseTrack.unity
     guid: 4ba487207219bd341a9f099dea836637
