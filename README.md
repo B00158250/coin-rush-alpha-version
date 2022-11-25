@@ -1,5 +1,5 @@
 # Coin Rush Project (Alpha Version)
-COMP H2033 - Interactive Multimedia Project / Andreas Egger &amp; Andreas Gasteiger
+COMP H2033 - Interactive Multimedia Project / B00158250 Andreas Egger &amp; B00158249 Andreas Gasteiger
 
 ## Github Pages
 - https://b00158250.github.io/coin-rush-alpha-version/

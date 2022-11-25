@@ -19,6 +19,7 @@ public class Navigation : MonoBehaviour
     private string Track2PoliceCar = "Track2PoliceCar";
     private string Track2SportsCar = "Track2SportsCar";
     private string Track2Truck = "Track2Truck";
+ 
 
     // store info of menu selected things 
     private static string ChoosenCar = "initial";
@@ -33,18 +34,7 @@ public class Navigation : MonoBehaviour
     private string track1 = "Track1";
     private string track2 = "Track2";
   
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
+ 
     public void StartGame()
     {
         SceneManager.LoadScene(ChooseCarScene);
